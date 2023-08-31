@@ -5,16 +5,16 @@ Welcome to the Medical Waste Detection project using Robflow and Detectron 2!�
 ### Why Detect Medical Waste? 🚑♻️
 Medical waste, which includes discarded items like syringes, gloves, and other hazardous materials, poses significant threats to public health and the environment. It can lead to the spread of infections, contamination of water and soil, and harm to wildlife. Detecting medical waste is of paramount importance for the following reasons:
 
-1. Health and Safety  🏥🌡️
+1. Health and Safety  🏥🌡️ :
 Proper disposal of medical waste is essential to prevent the transmission of diseases and infections. Detecting medical waste ensures that hazardous materials are disposed of correctly, minimizing the risk of exposure for healthcare workers, waste handlers, and the general public.
 
-2. Environmental Protection 🌍🌱
+2. Environmental Protection 🌍🌱 :
   When medical waste is not properly managed, it can contaminate water bodies, soil, and air. Detecting and managing medical waste helps prevent environmental pollution, ensuring the well-being of ecosystems and the communities that depend on them.
 
-3. Resource Conservation 🔄💎
+3. Resource Conservation 🔄💎 :
 Medical waste often contains valuable materials that can be recycled or repurposed. Detecting these items allows for the recovery of resources and reduces the need for new production, contributing to resource conservation and sustainability.
 
-4. Emergency Preparedness 🚨🆘
+4. Emergency Preparedness 🚨🆘 :
 During emergencies like pandemics or natural disasters, the volume of medical waste can increase dramatically. Accurate detection enables rapid response and effective management of waste, preventing additional health and environmental risks.
 
 ### The Role of Robflow and Detectron 2 🤖
