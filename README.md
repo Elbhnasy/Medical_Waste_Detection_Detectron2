@@ -17,7 +17,7 @@ Medical waste often contains valuable materials that can be recycled or repurpos
 4. Emergency Preparedness 🚨🆘 :
 During emergencies like pandemics or natural disasters, the volume of medical waste can increase dramatically. Accurate detection enables rapid response and effective management of waste, preventing additional health and environmental risks.
 
-### The Role of Robflow and Detectron 2 🤖
+### The Role of Detectron 2 🤖
 In this project, I utilize Detectron 2, specifically the Faster R-CNN architecture, to achieve accurate medical waste detection with a precision **greater than 94%**. These tools empower us to:
 
 Identify Hazardous Items: The sophisticated object detection capabilities of Detectron 2 help us identify and locate hazardous medical waste items within various scenes.
