@@ -40,15 +40,11 @@ Results and Analysis: Examine the results of the medical waste detection, assess
 ### Results 📊
 
 
-![photo_2023-08-31_08-53-21](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/e77c1a52-d89e-4cd2-a388-725bd38a0458)
-![photo_2023-08-31_08-53-11](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/0852e15b-5b28-41bd-97e6-52aa2a7e5414)
-![photo_2023-08-31_08-53-07](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/348f4c6d-00ca-4301-bd26-35aedca4b62a)
-![photo_2023-08-31_08-52-56](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/60a1392c-c95d-4297-aa02-82120301e5dc)
-![photo_2023-08-31_08-53-16](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/cb469c23-333e-4614-9e5d-7167b0154a33)
+![photo_2023-08-31_08-53-21](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/e77c1a52-d89e-4cd2-a388-725bd38a0458)![photo_2023-08-31_08-53-11](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/0852e15b-5b28-41bd-97e6-52aa2a7e5414)![photo_2023-08-31_08-53-07](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/348f4c6d-00ca-4301-bd26-35aedca4b62a)![photo_2023-08-31_08-52-56](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/60a1392c-c95d-4297-aa02-82120301e5dc)![photo_2023-08-31_08-53-16](https://github.com/Elbhnasy/Medical_Waste_Detection_Detectron2/assets/63622300/cb469c23-333e-4614-9e5d-7167b0154a33)
 
 
 
 ### Conclusion 📝
-We believe that accurate medical waste detection is a crucial step towards protecting lives, the environment, and our collective future. By utilizing Robflow and Detectron 2, we aim to contribute to the ongoing efforts to manage and mitigate the impact of medical waste. We hope this project inspires further research, collaboration, and innovation in the field of medical waste management.
+I believe that accurate medical waste detection is a crucial step towards protecting lives, the environment, and our collective future. By utilizing Robflow and Detectron 2, we aim to contribute to the ongoing efforts to manage and mitigate the impact of medical waste. We hope this project inspires further research, collaboration, and innovation in the field of medical waste management.
 
 ⛔️ Remember, every piece of medical waste detected is a step towards a safer, healthier, and more sustainable world.
