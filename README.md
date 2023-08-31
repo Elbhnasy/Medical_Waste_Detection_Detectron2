@@ -9,7 +9,7 @@ Medical waste, which includes discarded items like syringes, gloves, and other h
 Proper disposal of medical waste is essential to prevent the transmission of diseases and infections. Detecting medical waste ensures that hazardous materials are disposed of correctly, minimizing the risk of exposure for healthcare workers, waste handlers, and the general public.
 
 2. Environmental Protection 🌍🌱
-When medical waste is not properly managed, it can contaminate water bodies, soil, and air. Detecting and managing medical waste helps prevent environmental pollution, ensuring the well-being of ecosystems and the communities that depend on them.
+  When medical waste is not properly managed, it can contaminate water bodies, soil, and air. Detecting and managing medical waste helps prevent environmental pollution, ensuring the well-being of ecosystems and the communities that depend on them.
 
 3. Resource Conservation 🔄💎
 Medical waste often contains valuable materials that can be recycled or repurposed. Detecting these items allows for the recovery of resources and reduces the need for new production, contributing to resource conservation and sustainability.
